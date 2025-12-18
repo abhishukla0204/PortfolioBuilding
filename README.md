@@ -1,7 +1,5 @@
 # Cross-Asset Portfolio Optimization
 
-**Arbitrage Arena 2026 - Problem 2 Submission**
-
 A comprehensive portfolio optimization system implementing multiple quantitative strategies for cross-asset allocation across cryptocurrencies, equities, indices, and commodities.
 
 ## 📊 Project Overview

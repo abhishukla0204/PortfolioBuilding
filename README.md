@@ -145,17 +145,6 @@ All strategies are evaluated on:
 
 See notebook for detailed performance comparison and visualizations.
 
-## 🏆 Competition Requirements ✓
-
-- [x] Full implementation in Jupyter Notebook
-- [x] All 8 required sections (Introduction → Conclusion)
-- [x] Mathematical formulas with LaTeX
-- [x] Comprehensive visualizations (equity curves, drawdowns, distributions)
-- [x] All mandatory metrics (Sharpe, Sortino, Max DD, Volatility)
-- [x] Professional documentation and explanations
-- [x] Uses only provided datasets
-- [x] Reproducible and runs end-to-end
-
 ## 🔮 Future Enhancements
 
 - Dynamic regime-switching allocation
@@ -165,8 +154,4 @@ See notebook for detailed performance comparison and visualizations.
 - CVaR optimization for tail risk
 - Walk-forward optimization
 - Monte Carlo stress testing
-
-## 👤 Author
-
-**Abhinav Shukla**  
 

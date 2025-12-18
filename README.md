@@ -154,4 +154,3 @@ See notebook for detailed performance comparison and visualizations.
 - CVaR optimization for tail risk
 - Walk-forward optimization
 - Monte Carlo stress testing
-
